@@ -1,0 +1,11 @@
+POST http://localhost:3001/api/equipo
+Content-Type: application/json
+
+{
+    "posicion":"hooker",
+    "numero": 1,
+    "logo": "",
+    "nombre": "isma",
+    "asistencia": 5,
+    "juega": false
+}

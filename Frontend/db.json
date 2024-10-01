@@ -1,0 +1,290 @@
+{
+  "posiciones": [
+    {
+      "posicion": "Pilar Izquierdo",
+      "numero": 1,
+      "logo": "🏃‍♂️",
+      "id": "3849"
+    },
+    {
+      "posicion": "Hooker",
+      "numero": 2,
+      "logo": "🏃‍♂️",
+      "id": "2f41"
+    },
+    {
+      "posicion": "Pilar Derecho",
+      "numero": 3,
+      "logo": "🏃‍♂️",
+      "id": "d27d"
+    },
+    {
+      "posicion": "2da Izquierdo",
+      "numero": 4,
+      "logo": "🏃‍♂️",
+      "id": "cbf7"
+    },
+    {
+      "posicion": "2da Derecho",
+      "numero": 5,
+      "logo": "🏃‍♂️",
+      "id": "9a3a"
+    },
+    {
+      "posicion": "Ala Izquierdo",
+      "numero": 6,
+      "logo": "🏃‍♂️",
+      "id": "5bd1"
+    },
+    {
+      "posicion": "Ala Derecho",
+      "numero": 7,
+      "logo": "🏃‍♂️",
+      "id": "81f6"
+    },
+    {
+      "posicion": "Octavo",
+      "numero": 8,
+      "logo": "🏃‍♂️",
+      "id": "5d11"
+    },
+    {
+      "posicion": "Medio Scrum",
+      "numero": 9,
+      "logo": "🏃‍♂️",
+      "id": "4dad"
+    },
+    {
+      "posicion": "Apertura",
+      "numero": 10,
+      "logo": "🏃‍♂️",
+      "id": "a04a"
+    },
+    {
+      "posicion": "Wing Izquierdo",
+      "numero": 11,
+      "logo": "🏃‍♂️",
+      "id": "deaa"
+    },
+    {
+      "posicion": "1er Centro",
+      "numero": 12,
+      "logo": "🏃‍♂️",
+      "id": "f149"
+    },
+    {
+      "posicion": "2do Centro",
+      "numero": 13,
+      "logo": "🏃‍♂️",
+      "id": "74fd"
+    },
+    {
+      "posicion": "Wing Derecho",
+      "numero": 14,
+      "logo": "🏃‍♂️",
+      "id": "5fcc"
+    },
+    {
+      "posicion": "Fullback",
+      "numero": 15,
+      "logo": "🏃‍♂️",
+      "id": "f0ac"
+    },
+    {
+      "posicion": "Suplente",
+      "numero": 16,
+      "logo": "🏃‍♂️",
+      "id": "c4b3"
+    }
+  ],
+  "equipo": [
+    {
+      "id": "ccfc",
+      "posicion": "Apertura",
+      "numero": 10,
+      "logo": "🏃‍♂️",
+      "nombre": "Marcos",
+      "asistencia": 1,
+      "juega": false
+    },
+    {
+      "id": "6bcb",
+      "posicion": "Pilar Izquierdo",
+      "numero": 1,
+      "logo": "🏃‍♂️",
+      "nombre": "Isma",
+      "asistencia": 1,
+      "juega": false
+    },
+    {
+      "id": "6b75",
+      "posicion": "Hooker",
+      "numero": 2,
+      "logo": "🏃‍♂️",
+      "nombre": "Joako P",
+      "asistencia": 1,
+      "juega": false
+    },
+    {
+      "id": "15fe",
+      "posicion": "Pilar Derecho",
+      "numero": 3,
+      "logo": "🏃‍♂️",
+      "nombre": "Ori",
+      "asistencia": 1,
+      "juega": false
+    },
+    {
+      "id": "f42d",
+      "posicion": "Ala Derecho",
+      "numero": 7,
+      "logo": "🏃‍♂️",
+      "nombre": "Gringo",
+      "asistencia": 2,
+      "juega": false
+    },
+    {
+      "id": "4958",
+      "posicion": "Wing Derecho",
+      "numero": 14,
+      "logo": "🏃‍♂️",
+      "nombre": "Abtronic",
+      "asistencia": 2,
+      "juega": false
+    },
+    {
+      "id": "c0f1",
+      "posicion": "Wing Izquierdo",
+      "numero": 11,
+      "logo": "🏃‍♂️",
+      "nombre": "Rodri",
+      "asistencia": 1,
+      "juega": false
+    },
+    {
+      "id": "d3d3",
+      "posicion": "2da Izquierdo",
+      "numero": 4,
+      "logo": "🏃‍♂️",
+      "nombre": "Jair",
+      "asistencia": 1,
+      "juega": false
+    },
+    {
+      "id": "f7bd",
+      "posicion": "2da Derecho",
+      "numero": 5,
+      "logo": "🏃‍♂️",
+      "nombre": "Franco",
+      "asistencia": 1,
+      "juega": false
+    },
+    {
+      "id": "25f0",
+      "posicion": "Ala Izquierdo",
+      "numero": 6,
+      "logo": "🏃‍♂️",
+      "nombre": "Eze S",
+      "asistencia": 1,
+      "juega": false
+    },
+    {
+      "id": "21ee",
+      "posicion": "2da Derecho",
+      "numero": 5,
+      "logo": "🏃‍♂️",
+      "nombre": "Iriel",
+      "asistencia": 1,
+      "juega": false
+    },
+    {
+      "id": "9890",
+      "posicion": "Octavo",
+      "numero": 8,
+      "logo": "🏃‍♂️",
+      "nombre": "Ricca",
+      "asistencia": 2,
+      "juega": false
+    },
+    {
+      "id": "922f",
+      "posicion": "Octavo",
+      "numero": 8,
+      "logo": "🏃‍♂️",
+      "nombre": "Scooby",
+      "asistencia": 1,
+      "juega": false
+    },
+    {
+      "id": "527e",
+      "posicion": "2do Centro",
+      "numero": 13,
+      "logo": "🏃‍♂️",
+      "nombre": "Tongas",
+      "asistencia": 1,
+      "juega": false
+    },
+    {
+      "id": "19b2",
+      "posicion": "Fullback",
+      "numero": 15,
+      "logo": "🏃‍♂️",
+      "nombre": "Fede",
+      "asistencia": 2,
+      "juega": false
+    },
+    {
+      "id": "6e89",
+      "posicion": "Medio Scrum",
+      "numero": 9,
+      "logo": "🏃‍♂️",
+      "nombre": "Tincho",
+      "asistencia": 1,
+      "juega": false
+    },
+    {
+      "id": "45ba",
+      "posicion": "Medio Scrum",
+      "numero": 9,
+      "logo": "🏃‍♂️",
+      "nombre": "Nacho",
+      "asistencia": 2,
+      "juega": false
+    },
+    {
+      "id": "be42",
+      "posicion": "2do Centro",
+      "numero": 13,
+      "logo": "🏃‍♂️",
+      "nombre": "Tadeo",
+      "asistencia": 1,
+      "juega": false
+    },
+    {
+      "id": "fc58",
+      "posicion": "Ala Derecho",
+      "numero": 7,
+      "logo": "🏃‍♂️",
+      "nombre": "Bocha",
+      "asistencia": 1,
+      "juega": false
+    },
+    {
+      "id": "3119",
+      "posicion": "Wing Derecho",
+      "numero": 14,
+      "logo": "🏃‍♂️",
+      "nombre": "Larisa",
+      "asistencia": 0,
+      "juega": false
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "bb0d",
+      "nombre": "Marcos",
+      "email": "marcoscongregado@gmail.com",
+      "password": "1234"
+    }
+  ]
+}

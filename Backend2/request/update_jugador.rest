@@ -1,0 +1,11 @@
+PUT http://localhost:3001/api/equipo/4
+Content-Type: application/json
+
+{
+    "posicion":"hoo",
+    "numero": 1,
+    "logo": "",
+    "nombre": "isma",
+    "asistencia": 5,
+    "juega": false
+}
